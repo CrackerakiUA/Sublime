@@ -1,0 +1,21 @@
+[
+	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+	{ "keys": ["f1"], "command": "toggle_side_bar" },
+	{
+		"keys": ["f2"],
+		"command": "set_layout",
+		"args": {
+			"cols": [0.0, 0.4, 0.7, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1]]
+		}
+	},
+	{
+		"keys": ["f5"],
+		"command": "reindent",
+		"args": {
+			"single_line": false
+		}
+	}
+]

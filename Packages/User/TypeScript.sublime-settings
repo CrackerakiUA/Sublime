@@ -1,0 +1,5 @@
+// These settings override both User and Default settings for the TypeScript syntax
+{
+    "word_wrap": true,
+    "save_on_focus_lost": true
+}

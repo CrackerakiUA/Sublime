@@ -1,0 +1,11 @@
+{
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"show_definitions": false,
+	"show_git_status": false,
+	"word_wrap": true
+}

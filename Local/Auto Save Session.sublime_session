@@ -1,0 +1,3807 @@
+{
+	"folder_history":
+	[
+		"/C/Work/Apps/webart.work/client",
+		"/C/Work/Apps/wawReact",
+		"/C/Work/Apps/wawNgx/client/src/app",
+		"/C/Work/Apps/wawNgx/server",
+		"/C/Work/Apps/wawNgx/client",
+		"/C/Work/Apps/webart.work/server/design/app/src/app/services",
+		"/C/Work/Apps/webart.work/server/ecommerce/app/src/app",
+		"/C/Work/Apps/webart.work/server",
+		"/C/Work/Apps/Online Office/fsm",
+		"/C/Work/Apps/traffic/backend",
+		"/C/Work/Apps/traffic/frontend",
+		"/C/Work/Apps/traffic",
+		"/C/Work/Apps/webart.work/server/memo/app/src/app/pages",
+		"/C/Users/crack/AppData/Roaming/npm/node_modules/waw",
+		"/C/Work/Apps/webart.work/client/src/app"
+	],
+	"last_version": 3211,
+	"last_window_id": 142,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 984.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"spl",
+						"splice"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"typ",
+						"typeof"
+					],
+					[
+						"dev",
+						"device"
+					],
+					[
+						"local",
+						"localStorage"
+					],
+					[
+						"de",
+						"device"
+					],
+					[
+						"lgo",
+						"logs"
+					],
+					[
+						"on",
+						"online"
+					],
+					[
+						"noti",
+						"notifications"
+					],
+					[
+						"messa",
+						"messanger"
+					],
+					[
+						"ref",
+						"refreshed"
+					],
+					[
+						"obj",
+						"object"
+					],
+					[
+						"calculate_",
+						"calculate_travel_time"
+					],
+					[
+						"calc",
+						"calculate"
+					],
+					[
+						"cal",
+						"calculate"
+					],
+					[
+						"dire",
+						"directionsService"
+					],
+					[
+						"eve",
+						"events"
+					],
+					[
+						"data",
+						"data64"
+					],
+					[
+						"re",
+						"register"
+					],
+					[
+						"disc",
+						"disconnect"
+					],
+					[
+						"htt",
+						"http"
+					],
+					[
+						"new",
+						"new_message"
+					],
+					[
+						"bor",
+						"border-radius\tproperty"
+					],
+					[
+						"n",
+						"ns"
+					],
+					[
+						"not",
+						"notifications"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"ht",
+						"http"
+					],
+					[
+						"se",
+						"sent"
+					],
+					[
+						"log",
+						"log\tlog"
+					],
+					[
+						"sta",
+						"start_form"
+					],
+					[
+						"err",
+						"errors"
+					],
+					[
+						"init",
+						"initialize"
+					],
+					[
+						"tra",
+						"tracking"
+					],
+					[
+						"conf",
+						"config"
+					],
+					[
+						"tok",
+						"token"
+					],
+					[
+						"tod",
+						"today_week"
+					],
+					[
+						"get",
+						"getDay"
+					],
+					[
+						"total_",
+						"total_h"
+					],
+					[
+						"send",
+						"sending"
+					],
+					[
+						"mes",
+						"message"
+					],
+					[
+						"fie",
+						"field"
+					],
+					[
+						"proj",
+						"project_id"
+					],
+					[
+						"ma",
+						"math"
+					],
+					[
+						"st",
+						"sts"
+					],
+					[
+						"est",
+						"estimate"
+					],
+					[
+						"to",
+						"toLowerCase"
+					],
+					[
+						"sele",
+						"selected_hour"
+					],
+					[
+						"mar",
+						"matcherl"
+					],
+					[
+						"ta",
+						"task"
+					],
+					[
+						"tax",
+						"tax_id"
+					],
+					[
+						"stat",
+						"statuses"
+					],
+					[
+						"dele",
+						"deleted"
+					],
+					[
+						"prod",
+						"products"
+					],
+					[
+						"dra",
+						"drafts"
+					],
+					[
+						"e",
+						"extra"
+					],
+					[
+						"ser",
+						"service"
+					],
+					[
+						"to_",
+						"to_id"
+					],
+					[
+						"value",
+						"value"
+					],
+					[
+						"cli",
+						"client"
+					],
+					[
+						"update",
+						"update_services"
+					],
+					[
+						"ex",
+						"extra_hours"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"di",
+						"displayedColumns"
+					],
+					[
+						"op",
+						"options"
+					],
+					[
+						"fi",
+						"fields"
+					],
+					[
+						"sti",
+						"sticker"
+					],
+					[
+						"cont",
+						"contact_information"
+					],
+					[
+						"con",
+						"contact_information"
+					],
+					[
+						"mark",
+						"markup_rate"
+					],
+					[
+						"add",
+						"addText"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"es",
+						"estimate"
+					],
+					[
+						"mat",
+						"matcher"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"reminder",
+						"reminders"
+					],
+					[
+						"i",
+						"item"
+					],
+					[
+						"q",
+						"quotes"
+					],
+					[
+						"upda",
+						"update_estimate"
+					],
+					[
+						"co",
+						"cost"
+					],
+					[
+						"sear",
+						"searchTerms"
+					],
+					[
+						"pho",
+						"phone"
+					],
+					[
+						"ema",
+						"emails"
+					],
+					[
+						"mem",
+						"member"
+					],
+					[
+						"ci",
+						"client"
+					],
+					[
+						"pu",
+						"push"
+					],
+					[
+						"clien",
+						"client"
+					],
+					[
+						"fe",
+						"fetchClientData"
+					],
+					[
+						"clie",
+						"client"
+					],
+					[
+						"prim",
+						"primary_email"
+					],
+					[
+						"of",
+						"offers"
+					],
+					[
+						"serv",
+						"service"
+					],
+					[
+						"Ser",
+						"ServicesModule"
+					],
+					[
+						"string",
+						"stringify"
+					],
+					[
+						"cre",
+						"created"
+					],
+					[
+						"persona",
+						"personal"
+					],
+					[
+						"Wor",
+						"workorders"
+					],
+					[
+						"Lea",
+						"leads"
+					],
+					[
+						"tp",
+						"types"
+					],
+					[
+						"sea",
+						"Search"
+					],
+					[
+						"use",
+						"users"
+					],
+					[
+						"off",
+						"offers_service_id"
+					],
+					[
+						"pad",
+						"padding-left\tproperty"
+					],
+					[
+						"paddi",
+						"padding-top\tproperty"
+					],
+					[
+						"paym",
+						"payments"
+					],
+					[
+						"fil",
+						"filters"
+					],
+					[
+						"stats",
+						"status"
+					],
+					[
+						"load",
+						"load_payments_quotes"
+					],
+					[
+						"client",
+						"client_id"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"ty",
+						"types"
+					],
+					[
+						"esti",
+						"estimates"
+					],
+					[
+						"work",
+						"workorder"
+					],
+					[
+						"per",
+						"perPage"
+					],
+					[
+						"equipmne",
+						"equipment"
+					],
+					[
+						"no",
+						"note_id"
+					],
+					[
+						"file",
+						"files"
+					],
+					[
+						"cr",
+						"created"
+					],
+					[
+						"upd",
+						"update_columns"
+					],
+					[
+						"rea",
+						"reassons"
+					],
+					[
+						"chi",
+						"children"
+					],
+					[
+						"a",
+						"activity"
+					],
+					[
+						"ope",
+						"openSendEmail"
+					],
+					[
+						"open",
+						"openSendEmail"
+					],
+					[
+						"sub",
+						"subscribe"
+					],
+					[
+						"lea",
+						"leads"
+					],
+					[
+						"for",
+						"fori\tfor (…) {…}"
+					],
+					[
+						"tag",
+						"tags"
+					],
+					[
+						"Or",
+						"OrderMenu"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Work/Apps/Online Office/arbostar/src/app/app.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/app.component.scss",
+				"/C/Work/Apps/Online Office/arbostar/src/app/app.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/notifications/notifications.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/notification.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/notifications/notifications.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/estimate.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/http.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/package.json",
+				"/C/Work/Apps/Online Office/arbostar/angular.json",
+				"/C/Work/Apps/Online Office/arbostar/src/index.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/lead.service.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/common/add-payment/add-payment.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/estimate.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/scheme/scheme.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/job.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout/day/day.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/worker/worker.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/dashboard.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/incedent/incedent.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/chat.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/job/job.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/build/index.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/app.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/login/login.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/job/job.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/login/login.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/worker/worker.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/worker/worker.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/estimator/estimator.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/estimator/estimator.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/worker/worker.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/estimator/estimator.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/estimator/estimator.component.html",
+				"/C/Work/Apps/Online Office/arbostar/app/package.json",
+				"/C/Work/Apps/Online Office/arbostar/app/.gitignore",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/user.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/.gitignore",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/incedent/incedent.component.html",
+				"/C/Work/Apps/Online Office/arbostar/tsconfig.json",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/replace-messages.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-view/estimate-view.component.html",
+				"/C/Work/Apps/Online Office/arbostar/.editorconfig",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-view/estimate-view.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-client-view/estimate-view.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/scheme/manage/manage.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/agenda.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/store.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/app/build.json",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/http.service.spec.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-list/estimate-list.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-client-view/estimate-view.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-list/estimate-list.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/app/index.html",
+				"/C/Users/crack/bin/fmfd",
+				"/C/Users/crack/bin/pa",
+				"/C/Users/crack/bin/cpa",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/agenda.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/dashboard.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/lead-map/lead-map.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/app/www/index.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/messanger.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/messanger.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout/user/user.component.ts",
+				"/C/Users/crack/AppData/Local/Temp/7zE0FC5E819/config.txt",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/noconnect/noconnect.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/chat/chat.component.html",
+				"/C/Work/Apps/Online Office/arbostar/app/plugins/pushy-cordova/src/ios/Pushy.swift",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/tracker.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/route.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/tracker/tracker.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/noconnect/noconnect.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/chat/chat.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/render.service.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/services/http.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/login/login.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/tracker/tracker.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/user/user.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/user/user.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/dashboard.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/agenda.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/agenda.component.scss",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/event-status.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/lead-status.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/pipes.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/safe-url.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/search.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/shift.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/swipe.directive.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/socket.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/ui.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/map.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/load-api-key.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-list/estimate-list.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout/user/user.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/estimate.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout/user/user.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout/day/day.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/notifications/notifications.component.scss",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/job/job.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/index.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/user/user.component.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/modules/Calendar/calendar/calendar.module.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/routing.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/services/ui.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/lead-map/lead-map.component.html",
+				"/C/Users/crack/Desktop/config.txt",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/scheme/manage/manage.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/scheme/scheme.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/messanger.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/app/plugins/fetch.json",
+				"/C/Users/crack/Downloads/calculations.js",
+				"/C/Work/Apps/Online Office/arbostar/app/plugins/cordova-plugin-background-mode/src/android/BackgroundExt.java",
+				"/C/Work/Apps/CoMatchMe/server/user/auth.js",
+				"/C/Work/Apps/Online Office/fsm/src/app/services/user.service.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/app.module.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/services/map.service.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/common/Map/pick_loc/map.component.ts",
+				"/C/Users/crack/Downloads/var directionsService = new google.maps.Direction.js",
+				"/C/Work/Apps/Online Office/arbostar/app/config.xml",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/noconnect/noconnect.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/app/Contents.json",
+				"/C/Users/crack/Desktop/Contents.json",
+				"/C/Work/Apps/showcase/www/js/index.js",
+				"/C/Work/Apps/Online Office/arbostar/arbostar/config.xml",
+				"/C/Work/Apps/Online Office/arbostar/arbostar/package.json",
+				"/C/Work/Apps/Online Office/arbostar/arbostar/www/index.html",
+				"/C/Work/Apps/Online Office/arbostar/hello/config.xml"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 128.0,
+				"where_history":
+				[
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages\\estimate",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\services",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\services",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages\\dashboard",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages\\agenda",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages\\dashboard",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\services",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\services",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src",
+					"C:\\Work\\Apps\\Online Office\\fsm",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Workorder\\Profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Leads\\Map\\map",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Leads\\Profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Create\\create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Profile\\profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\layouts",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Leads\\Create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Clients",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\Services\\services",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\View\\view",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Profile\\profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\Fields\\fields",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Create\\create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\Fields",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Create\\create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\Table",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\Services\\services",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\custom-fields",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Profile\\profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Create\\create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\custom-fields",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\custom-fields\\page",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\custom-fields",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Equipment",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"(api key)",
+					"i = this.ns.notifications.length",
+					"this.notifications[j]",
+					"user_id",
+					"user_i",
+					"this.notifications[i]",
+					"this.notifications",
+					"this.notifications[i]",
+					"notification.",
+					"notification.notification_title",
+					"hide",
+					"();\"",
+					"noteFix",
+					"notification.",
+					"notn",
+					"notification",
+					"notification.",
+					"notification",
+					"read(",
+					"css_left",
+					"cdkDrag",
+					"/jquery-touch-events/src/jquery.mobile-events",
+					"accept=\"",
+					"accept",
+					"\"node_modules/jquery-touch-events/src/jquery.mobile-events.min.js\",",
+					"\"node_modules/izitoast/dist/css/iziToast.min.css\",",
+					"\"node_modules/izitoast/dist/js/iziToast.min.js\"",
+					"jquery",
+					"toast",
+					"docs[i]",
+					"ld.lead",
+					"ld.lead?",
+					"this.ld.lead",
+					"ld.lead",
+					"                               ",
+					"                              ",
+					"                             ",
+					"                            ",
+					"                           ",
+					"                          ",
+					"                         ",
+					"                        ",
+					"                       ",
+					"                      ",
+					"                     ",
+					"                    ",
+					"                   ",
+					"                  ",
+					"                 ",
+					"                ",
+					"               ",
+					"              ",
+					"             ",
+					"            ",
+					"           ",
+					"          ",
+					"         ",
+					"        ",
+					"       ",
+					"      ",
+					"     ",
+					"    ",
+					"ld.lead",
+					"Create Estimate",
+					"fetch",
+					"type=\"file\"",
+					"formdata",
+					"app/leads",
+					"JobService",
+					"cordova.platformId",
+					"window.plugins",
+					"242424",
+					"dark_mode",
+					"event.",
+					"event",
+					"client_data.client_contact",
+					"event.client_data.client_contact",
+					"js.stop_form.event_payment",
+					"||notToday",
+					"notToday",
+					"service",
+					"event?",
+					"event?.estimator_data",
+					"service",
+					"<a *ngIf=\"event&&",
+					"event?",
+					"alert",
+					"event",
+					"Event",
+					"event",
+					"Event",
+					"event",
+					"event.",
+					"noconnect",
+					"noconne",
+					"load",
+					"add_file",
+					"add(",
+					"add_file",
+					"type=\"file\"",
+					"type='file'",
+					"type=\"file\"",
+					"conflict",
+					"CONFLICT",
+					"57",
+					"alert",
+					"{}",
+					"\": {},",
+					"onDeviceReady",
+					"pushy",
+					"9.0",
+					"environment",
+					"environment.prod",
+					"npm",
+					"event",
+					"new Image",
+					"alert",
+					"ng-container",
+					"header",
+					"StatusBarStyle",
+					"new Image",
+					"http.set_day",
+					"showDay",
+					"dark_mode",
+					"document.body.classList.add(\"dark_mode\");",
+					"dark_mode",
+					"backgroundmode",
+					"background mode"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"'q/'",
+					"/i/",
+					"/w/",
+					"/q/",
+					"/l/",
+					"create a new",
+					"{{client.name}}",
+					"is.invoice",
+					"es.calculate(this.ws.workorder.estimate);",
+					"|tdate|date:",
+					"us.toggle_fav_client(",
+					"es.update",
+					"es.update();",
+					"equipment.full_day_price",
+					"equipment.price",
+					"selected_attachments",
+					"specialist.price",
+					"cs.cnstrctr",
+					"inputs: ['section'],",
+					"selector: 'service-",
+					" [(ngModel)]=\"info.width\" (ngModelChange)=\"cs.update();\"",
+					"[(ngModel)]=\"info.width\" (change)=\"cs.update();\"",
+					"inputs: ['section'],\nselector: 'app-",
+					"createGroup",
+					"setOptions",
+					"screen",
+					"public previewScreen;\npublic info;",
+					"inputs: ['previewScreen', 'info'],",
+					"constructor(public cs: ConstructorService)",
+					"selector: 'sector_",
+					"selector: '",
+					"us.mat_users",
+					"@root/office-dashboard",
+					"{{bs.board.url}}",
+					" early access",
+					"early access",
+					", \"deleted\"",
+					"https://kov.entk.ee",
+					".",
+					"_edit",
+					"$scope.send = function(){\n\t\t\t\t$scope.err=null;\n\t\t\t\tif(!$scope.name){",
+					"if(!$scope.name){\n\t\t\t\t\t$scope.err=1;\n\t\t\t\t\treturn iziToast.error({\n\t\t\t\t\t\tmessage: 'Please fill your name',\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t\tif(!$scope.email){\n\t\t\t\t    $scope.err=2;\n\t\t\t\t    return iziToast.error({\n\t\t\t\t\t\tmessage: 'Please fill your email',\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t\tif(!$scope.message){\n\t\t\t\t    $scope.err=3;\n\t\t\t\t\treturn iziToast.error({\n\t\t\t\t\t\tmessage: 'Please fill your message',\n\t\t\t\t\t});\n\t\t\t\t}",
+					"Views",
+					"$http.post('/api/user/contact', {\n\t\t\t\t\tmessage: $scope.message,\n\t\t\t\t\temail: $scope.email,\n\t\t\t\t\tname: $scope.name\n\t\t\t\t});\n\t\t\t\t$scope.message='';\n\t\t\t\t$scope.email='';\n\t\t\t\t$scope.name='';",
+					"<textarea rows=\"4\" name=\"message\" class=\"input\" placeholder=\"Write us about your current team and challenges.\" ng-model=\"message\"></textarea>",
+					"<h1 class=\"ta-c pt30\">Apply for beta access</h1>",
+					"Apply now",
+					"<!-- <a class=\"flink\" href=\"/Terms\">Sales conditons</a> -->",
+					"UseScenarios",
+					"ApplyForBeta",
+					"FeaturesViews",
+					"Apply for beta",
+					"apply now",
+					"Apply for beta access",
+					"Application views",
+					" ng-style=\"{opacity: 1}\""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"notific.ht",
+						"app\\pages\\notifications\\notifications.component.html"
+					],
+					[
+						"estimate.com",
+						"app\\pages\\estimate\\estimate.component.ts"
+					],
+					[
+						"httpserv",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"notification",
+						"app\\services\\notification.service.ts"
+					],
+					[
+						"chat",
+						"app\\services\\chat.service.ts"
+					],
+					[
+						"src/app/pages/incedent/incedent.component",
+						"arbostar\\src\\app\\pages\\incedent\\incedent.component.ts"
+					],
+					[
+						"jobser",
+						"app\\services\\job.service.ts"
+					],
+					[
+						"chats",
+						"app\\services\\chat.service.ts"
+					],
+					[
+						"lead",
+						"app\\services\\lead.service.ts"
+					],
+					[
+						"job.ser",
+						"app\\services\\job.service.ts"
+					],
+					[
+						"httpseri",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"job\\job.component.",
+						"app\\pages\\job\\job.component.ts"
+					],
+					[
+						"incedent\\incedent.component",
+						"app\\pages\\incedent\\incedent.component.ts"
+					],
+					[
+						"estimate\\estimate.component.ts",
+						"app\\pages\\estimate\\estimate.component.ts"
+					],
+					[
+						"user",
+						"app\\services\\user.service.ts"
+					],
+					[
+						"src/app/pages/estimate/estimate.component.html",
+						"arbostar\\src\\app\\pages\\estimate\\estimate.component.html"
+					],
+					[
+						"app/pages/incedent/incedent.component.html",
+						"app\\pages\\incedent\\incedent.component.html"
+					],
+					[
+						"src/app/pages/incedent/incedent.component.html",
+						"arbostar\\src\\app\\pages\\incedent\\incedent.component.html"
+					],
+					[
+						"src/app/pages/estimate-view/estimate-view.component.html",
+						"arbostar\\src\\app\\pages\\estimate-view\\estimate-view.component.html"
+					],
+					[
+						"estimate",
+						"app\\pages\\estimate\\estimate.component.ts"
+					],
+					[
+						"estimate-view",
+						"app\\pages\\estimate-client-view\\estimate-view.component.ts"
+					],
+					[
+						"src/app/pages/estimate-view/estimate-view.component.ts",
+						"arbostar\\src\\app\\pages\\estimate-view\\estimate-view.component.ts"
+					],
+					[
+						"src/app/pages/estimate-view/estimate-view.component",
+						"arbostar\\src\\app\\pages\\estimate-view\\estimate-view.component.ts"
+					],
+					[
+						"estimate-view.ts",
+						"app\\pages\\estimate-client-view\\estimate-view.component.ts"
+					],
+					[
+						"userseri",
+						"app\\services\\user.service.ts"
+					],
+					[
+						"storeservi",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"httpser",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"httpse",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"store",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"storeservice",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"http.seri",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"store.ser",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"trackerservi",
+						"app\\services\\tracker.service.ts"
+					],
+					[
+						"http",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"routeser",
+						"app\\services\\route.service.ts"
+					],
+					[
+						"job",
+						"app\\pages\\job\\job.component.ts"
+					],
+					[
+						"store.service",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"storese",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"LeadService",
+						"app\\services\\lead.service.ts"
+					],
+					[
+						"chatservi",
+						"app\\services\\chat.service.ts"
+					],
+					[
+						"EstimateViewComponent",
+						"app\\pages\\estimate-view\\estimate-view.component.ts"
+					],
+					[
+						"src/app/pages/estimate-list/estimate-list.component.",
+						"arbostar\\src\\app\\pages\\estimate-list\\estimate-list.component.ts"
+					],
+					[
+						"ui.seri",
+						"app\\services\\ui.service.ts"
+					],
+					[
+						"uiservice",
+						"services\\ui.service.ts"
+					],
+					[
+						"jobservice",
+						"app\\services\\job.service.ts"
+					],
+					[
+						"src/app/pages/lead-map/lead-map.component",
+						"arbostar\\src\\app\\pages\\lead-map\\lead-map.component.html"
+					],
+					[
+						"BackgroundModeExt.java",
+						"arbostar\\app\\plugins\\cordova-plugin-background-mode\\src\\android\\BackgroundExt.java"
+					],
+					[
+						"user.",
+						"app\\services\\user.service.ts"
+					],
+					[
+						"jobcom",
+						"app\\pages\\job\\job.component.ts"
+					],
+					[
+						"job.ts",
+						"app\\pages\\job\\job.component.ts"
+					],
+					[
+						"store.",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"route",
+						"app\\services\\route.service.ts"
+					],
+					[
+						"job.com.ts",
+						"app\\pages\\job\\job.component.ts"
+					],
+					[
+						"http.service",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"httpservice",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"userservice",
+						"app\\services\\user.service.ts"
+					],
+					[
+						"TrackerService",
+						"services\\tracker.service.ts"
+					],
+					[
+						"FileService",
+						"services\\client\\file.service.ts"
+					],
+					[
+						"clientser",
+						"services\\client\\client.service.ts"
+					],
+					[
+						"estimateservi",
+						"services\\estimate\\estimate.service.ts"
+					],
+					[
+						"socketservice",
+						"app\\services\\socket.service.ts"
+					],
+					[
+						"socket",
+						"services\\socket.service.ts"
+					],
+					[
+						"routser",
+						"app\\services\\route.service.ts"
+					],
+					[
+						"chatserv",
+						"app\\services\\chat.service.ts"
+					],
+					[
+						"chatservice",
+						"app\\services\\chat.service.ts"
+					],
+					[
+						"guard",
+						"app\\services\\guard.ts"
+					],
+					[
+						"notification.servi",
+						"app\\services\\notification.service.ts"
+					],
+					[
+						"AuthService",
+						"services\\auth.service.ts"
+					],
+					[
+						"userser",
+						"services\\user.service.ts"
+					],
+					[
+						"authseri",
+						"services\\auth.service.ts"
+					],
+					[
+						"login.ts",
+						"modules\\Users\\Login\\login\\login.component.ts"
+					],
+					[
+						"base",
+						"services\\base.service.ts"
+					],
+					[
+						"rou",
+						"services\\routing.service.ts"
+					],
+					[
+						"estiamte.serv",
+						"services\\estimate\\estimate.service.ts"
+					],
+					[
+						"workorder",
+						"services\\workorder\\workorder.service.ts"
+					],
+					[
+						"statusser",
+						"services\\estimate\\status.service.ts"
+					],
+					[
+						"alertcom",
+						"common\\Alert\\alert\\alert.component.html"
+					],
+					[
+						"alert.co",
+						"common\\Alert\\alert\\alert.component.ts"
+					],
+					[
+						"ale",
+						"services\\alert.service.ts"
+					],
+					[
+						"alert.com",
+						"common\\Alert\\alert\\alert.component.ts"
+					],
+					[
+						"common/Alert/alert/alert.component",
+						"common\\Alert\\alert\\alert.component.html"
+					],
+					[
+						"alert",
+						"services\\alert.service.ts"
+					],
+					[
+						"routing",
+						"services\\routing.service.ts"
+					],
+					[
+						"contructor",
+						"services\\constructor.service.ts"
+					],
+					[
+						"statusserv",
+						"services\\estimate\\status.service.ts"
+					],
+					[
+						"invoice",
+						"services\\invoice\\invoice.service.ts"
+					],
+					[
+						"src/app/common/Services/services/services.component.ts",
+						"fsm\\src\\app\\common\\Services\\services\\services.component.ts"
+					],
+					[
+						"service",
+						"services\\estimate\\services.service.ts"
+					],
+					[
+						"statusservice",
+						"services\\estimate\\status.service.ts"
+					],
+					[
+						"file",
+						"services\\client\\file.service.ts"
+					],
+					[
+						"field",
+						"services\\fields.service.ts"
+					],
+					[
+						"routings",
+						"services\\routing.service.ts"
+					],
+					[
+						"estim",
+						"services\\estimate\\estimate.service.ts"
+					],
+					[
+						"statusservi",
+						"services\\estimate\\status.service.ts"
+					],
+					[
+						"status.ts",
+						"common\\Status\\status\\status.component.ts"
+					],
+					[
+						"statu",
+						"services\\estimate\\status.service.ts"
+					],
+					[
+						"leadprofilelead",
+						"modules\\Leads\\Profile\\profile\\lead.component.html"
+					],
+					[
+						"fieldserv",
+						"services\\fields.service.ts"
+					],
+					[
+						"client-info",
+						"common\\client-info\\client-info.component.ts"
+					],
+					[
+						"clientinfo",
+						"common\\client-info\\client-info.component.html"
+					],
+					[
+						"histor",
+						"services\\history.service.ts"
+					],
+					[
+						"constructor",
+						"services\\constructor.service.ts"
+					],
+					[
+						"src/app/modules/Equipment/Profile/profile/profile.component",
+						"fsm\\src\\app\\modules\\Equipment\\Profile\\profile\\profile.component.html"
+					],
+					[
+						"src/app/common/Map/map/map.component",
+						"fsm\\src\\app\\common\\Map\\map\\map.component.html"
+					],
+					[
+						"menu",
+						"services\\menu.service.ts"
+					],
+					[
+						"AddPaymentComponent",
+						"common\\add-payment\\add-payment.component.ts"
+					],
+					[
+						"hist",
+						"services\\history.service.ts"
+					],
+					[
+						"histo",
+						"services\\history.service.ts"
+					],
+					[
+						"pdf",
+						"services\\estimate\\pdf.service.ts"
+					],
+					[
+						"editompon",
+						"modules\\Clients\\Profile\\profile\\edit.component.ts"
+					],
+					[
+						"client",
+						"services\\client\\client.service.ts"
+					],
+					[
+						"taskservice",
+						"services\\tasks.service.ts"
+					],
+					[
+						"task",
+						"services\\task.service.ts"
+					],
+					[
+						"draft",
+						"services\\estimate\\draft.service.ts"
+					],
+					[
+						"stat",
+						"services\\estimate\\status.service.ts"
+					],
+					[
+						"leadser",
+						"services\\task\\lead.service.ts"
+					],
+					[
+						"list",
+						"services\\templates\\list.service.ts"
+					],
+					[
+						"produc",
+						"services\\estimate\\products.service.ts"
+					],
+					[
+						"servicesser",
+						"services\\estimate\\services.service.ts"
+					],
+					[
+						"drafts",
+						"fsm\\node_modules\\json-schema\\draft-zyp-json-schema-03.xml"
+					],
+					[
+						"search",
+						"pipes\\search.pipe.ts"
+					],
+					[
+						"map",
+						"services\\map.service.ts"
+					],
+					[
+						"fields",
+						"services\\fields.service.ts"
+					],
+					[
+						"listser",
+						"services\\templates\\list.service.ts"
+					],
+					[
+						"listservice",
+						"services\\templates\\list.service.ts"
+					],
+					[
+						"src/app/modules/Calendar/calendar/calendar.component.",
+						"fsm\\src\\app\\modules\\Calendar\\calendar\\calendar.component.ts"
+					],
+					[
+						"AlertComponent",
+						"common\\Alert\\alert\\alert.component.html"
+					],
+					[
+						"aler",
+						"services\\alert.service.ts"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "t",
+				"selected_items":
+				[
+					[
+						"t",
+						"C:\\Users\\crack\\Traffic.sublime-project"
+					],
+					[
+						"",
+						"C:\\Users\\crack\\waw.sublime-project"
+					],
+					[
+						"waw",
+						"C:\\Users\\crack\\waw.sublime-project"
+					],
+					[
+						"w",
+						"C:\\Users\\crack\\waw.sublime-project"
+					],
+					[
+						"be",
+						"C:\\Users\\crack\\Bejaboo.sublime-project"
+					],
+					[
+						"z",
+						"C:\\Users\\crack\\Zaproo.sublime-project"
+					],
+					[
+						"o",
+						"C:\\Users\\crack\\ewoc.sublime-project"
+					],
+					[
+						"za",
+						"C:\\Users\\crack\\Zaproo.sublime-project"
+					],
+					[
+						"b e",
+						"C:\\Users\\crack\\Bejaboo.sublime-project"
+					],
+					[
+						"wa",
+						"C:\\Users\\crack\\waw.sublime-project"
+					],
+					[
+						"cr",
+						"C:\\Users\\crack\\CRM.sublime-project"
+					],
+					[
+						"crm",
+						"C:\\Users\\crack\\CRM.sublime-project"
+					],
+					[
+						"ma",
+						"C:\\Users\\crack\\Massage World.sublime-project"
+					],
+					[
+						"bej",
+						"C:\\Users\\crack\\Bejaboo.sublime-project"
+					],
+					[
+						"har",
+						"C:\\Users\\crack\\Harald Mayr.sublime-project"
+					],
+					[
+						"fi",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"ha",
+						"C:\\Users\\crack\\Harald Mayr.sublime-project"
+					],
+					[
+						"mar",
+						"C:\\Users\\crack\\Marcel.sublime-project"
+					],
+					[
+						"fixe",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"zapr",
+						"C:\\Users\\crack\\Zaproo.sublime-project"
+					],
+					[
+						"dir",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"dri",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"fix",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"f",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"do",
+						"C:\\Users\\crack\\Harald Mayr.sublime-project"
+					],
+					[
+						" ",
+						"C:\\Users\\crack\\Harald Mayr.sublime-project"
+					],
+					[
+						"hara",
+						"C:\\Users\\crack\\Harald Mayr.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 592.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 316.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1078.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"for",
+						"for\tfor_length"
+					],
+					[
+						"eve",
+						"events"
+					],
+					[
+						"set",
+						"set_map"
+					],
+					[
+						"even",
+						"events"
+					],
+					[
+						"set_",
+						"set_agenda"
+					],
+					[
+						"way",
+						"waypoints"
+					],
+					[
+						"spl",
+						"splice"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"typ",
+						"typeof"
+					],
+					[
+						"dev",
+						"device"
+					],
+					[
+						"local",
+						"localStorage"
+					],
+					[
+						"de",
+						"device"
+					],
+					[
+						"lgo",
+						"logs"
+					],
+					[
+						"on",
+						"online"
+					],
+					[
+						"noti",
+						"notifications"
+					],
+					[
+						"messa",
+						"messanger"
+					],
+					[
+						"ref",
+						"refreshed"
+					],
+					[
+						"obj",
+						"object"
+					],
+					[
+						"calculate_",
+						"calculate_travel_time"
+					],
+					[
+						"calc",
+						"calculate"
+					],
+					[
+						"cal",
+						"calculate"
+					],
+					[
+						"dire",
+						"directionsService"
+					],
+					[
+						"data",
+						"data64"
+					],
+					[
+						"re",
+						"register"
+					],
+					[
+						"disc",
+						"disconnect"
+					],
+					[
+						"htt",
+						"http"
+					],
+					[
+						"new",
+						"new_message"
+					],
+					[
+						"bor",
+						"border-radius\tproperty"
+					],
+					[
+						"n",
+						"ns"
+					],
+					[
+						"not",
+						"notifications"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"ht",
+						"http"
+					],
+					[
+						"se",
+						"sent"
+					],
+					[
+						"log",
+						"log\tlog"
+					],
+					[
+						"sta",
+						"start_form"
+					],
+					[
+						"err",
+						"errors"
+					],
+					[
+						"init",
+						"initialize"
+					],
+					[
+						"tra",
+						"tracking"
+					],
+					[
+						"conf",
+						"config"
+					],
+					[
+						"tok",
+						"token"
+					],
+					[
+						"tod",
+						"today_week"
+					],
+					[
+						"get",
+						"getDay"
+					],
+					[
+						"total_",
+						"total_h"
+					],
+					[
+						"send",
+						"sending"
+					],
+					[
+						"mes",
+						"message"
+					],
+					[
+						"fie",
+						"field"
+					],
+					[
+						"proj",
+						"project_id"
+					],
+					[
+						"ma",
+						"math"
+					],
+					[
+						"st",
+						"sts"
+					],
+					[
+						"est",
+						"estimate"
+					],
+					[
+						"to",
+						"toLowerCase"
+					],
+					[
+						"sele",
+						"selected_hour"
+					],
+					[
+						"mar",
+						"matcherl"
+					],
+					[
+						"ta",
+						"task"
+					],
+					[
+						"tax",
+						"tax_id"
+					],
+					[
+						"stat",
+						"statuses"
+					],
+					[
+						"dele",
+						"deleted"
+					],
+					[
+						"prod",
+						"products"
+					],
+					[
+						"dra",
+						"drafts"
+					],
+					[
+						"e",
+						"extra"
+					],
+					[
+						"ser",
+						"service"
+					],
+					[
+						"to_",
+						"to_id"
+					],
+					[
+						"value",
+						"value"
+					],
+					[
+						"cli",
+						"client"
+					],
+					[
+						"update",
+						"update_services"
+					],
+					[
+						"ex",
+						"extra_hours"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"di",
+						"displayedColumns"
+					],
+					[
+						"op",
+						"options"
+					],
+					[
+						"fi",
+						"fields"
+					],
+					[
+						"sti",
+						"sticker"
+					],
+					[
+						"cont",
+						"contact_information"
+					],
+					[
+						"con",
+						"contact_information"
+					],
+					[
+						"mark",
+						"markup_rate"
+					],
+					[
+						"add",
+						"addText"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"es",
+						"estimate"
+					],
+					[
+						"mat",
+						"matcher"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"reminder",
+						"reminders"
+					],
+					[
+						"i",
+						"item"
+					],
+					[
+						"q",
+						"quotes"
+					],
+					[
+						"upda",
+						"update_estimate"
+					],
+					[
+						"co",
+						"cost"
+					],
+					[
+						"sear",
+						"searchTerms"
+					],
+					[
+						"pho",
+						"phone"
+					],
+					[
+						"ema",
+						"emails"
+					],
+					[
+						"mem",
+						"member"
+					],
+					[
+						"ci",
+						"client"
+					],
+					[
+						"pu",
+						"push"
+					],
+					[
+						"clien",
+						"client"
+					],
+					[
+						"fe",
+						"fetchClientData"
+					],
+					[
+						"clie",
+						"client"
+					],
+					[
+						"prim",
+						"primary_email"
+					],
+					[
+						"of",
+						"offers"
+					],
+					[
+						"serv",
+						"service"
+					],
+					[
+						"Ser",
+						"ServicesModule"
+					],
+					[
+						"string",
+						"stringify"
+					],
+					[
+						"cre",
+						"created"
+					],
+					[
+						"persona",
+						"personal"
+					],
+					[
+						"Wor",
+						"workorders"
+					],
+					[
+						"Lea",
+						"leads"
+					],
+					[
+						"tp",
+						"types"
+					],
+					[
+						"sea",
+						"Search"
+					],
+					[
+						"use",
+						"users"
+					],
+					[
+						"off",
+						"offers_service_id"
+					],
+					[
+						"pad",
+						"padding-left\tproperty"
+					],
+					[
+						"paddi",
+						"padding-top\tproperty"
+					],
+					[
+						"paym",
+						"payments"
+					],
+					[
+						"fil",
+						"filters"
+					],
+					[
+						"stats",
+						"status"
+					],
+					[
+						"load",
+						"load_payments_quotes"
+					],
+					[
+						"client",
+						"client_id"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"ty",
+						"types"
+					],
+					[
+						"esti",
+						"estimates"
+					],
+					[
+						"work",
+						"workorder"
+					],
+					[
+						"per",
+						"perPage"
+					],
+					[
+						"equipmne",
+						"equipment"
+					],
+					[
+						"no",
+						"note_id"
+					],
+					[
+						"file",
+						"files"
+					],
+					[
+						"cr",
+						"created"
+					],
+					[
+						"upd",
+						"update_columns"
+					],
+					[
+						"rea",
+						"reassons"
+					],
+					[
+						"chi",
+						"children"
+					],
+					[
+						"a",
+						"activity"
+					],
+					[
+						"ope",
+						"openSendEmail"
+					],
+					[
+						"open",
+						"openSendEmail"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Work/Apps/Online Office/arbostar/src/app/app.component.html",
+					"settings":
+					{
+						"buffer_size": 22297,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Work/Apps/Online Office/arbostar/src/app/app.component.ts",
+					"settings":
+					{
+						"buffer_size": 12171,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Work/Apps/Online Office/arbostar/src/app/services/lead.service.ts",
+					"settings":
+					{
+						"buffer_size": 10672,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Work/Apps/Online Office/arbostar/src/app/services/http.service.ts",
+					"settings":
+					{
+						"buffer_size": 10858,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Work/Apps/Online Office/arbostar/app/config.xml",
+					"settings":
+					{
+						"buffer_size": 8009,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Work/Apps/Online Office/arbostar/app/www/index.html",
+					"settings":
+					{
+						"buffer_size": 1070,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Work/Apps/Online Office/arbostar/src/app",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout/user"
+			],
+			"file_history":
+			[
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/login/login.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/login/login.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/estimate.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/store.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/estimate.component.html",
+				"/C/Users/crack/bin/repo/README.md",
+				"/C/Work/Apps/Online Office/arbostar/src/app/app.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/app.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/package.json",
+				"/C/Work/Apps/Online Office/arbostar/src/app/app.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout/user/user.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout/user/user.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/messanger.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/chat/chat.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/chat/chat.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/notification.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/notifications/notifications.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/messanger.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/job.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/agenda.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/worker/worker.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/job/job.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/http.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/notifications/notifications.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/job/job.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/user.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/worker/worker.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout/day/day.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/agenda.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/agenda.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/render.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/index.ts",
+				"/C/Users/crack/AppData/Roaming/Sublime Text 3/Packages/User/Sublime-TypeScript-Snippets-master/for_length.sublime-snippet",
+				"/C/Users/crack/AppData/Roaming/Sublime Text 3/Packages/User/Sublime-TypeScript-Snippets-master/for_in.sublime-snippet",
+				"/C/Users/crack/AppData/Roaming/Sublime Text 3/Packages/User/Sublime-TypeScript-Snippets-master/for_length-desc.sublime-snippet",
+				"/C/Users/crack/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/user/user.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/event-status.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-client-view/estimate-view.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/estimator/estimator.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/node_modules/glob/sync.js",
+				"/C/Users/crack/bin/pus",
+				"/C/Users/crack/bin/p",
+				"/C/Users/crack/bin/add",
+				"/C/Users/crack/bin/task",
+				"/C/Users/crack/bin/run",
+				"/C/Users/crack/bin/d - Copy",
+				"/C/Users/crack/bin/zaproo",
+				"/C/Users/crack/bin/bejaboo",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/lead.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/index.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/ui.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/login/login.component.scss",
+				"/C/Work/Apps/Online Office/arbostar/src/app/app.component.scss",
+				"/C/Work/Apps/Online Office/arbostar/angular.json",
+				"/C/Work/Apps/Online Office/fsm/src/app/common/add-payment/add-payment.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/scheme/scheme.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/worker/worker.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/dashboard.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/incedent/incedent.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/chat.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/build/index.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/estimator/estimator.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/worker/worker.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/estimator/estimator.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/estimator/estimator.component.html",
+				"/C/Work/Apps/Online Office/arbostar/app/package.json",
+				"/C/Work/Apps/Online Office/arbostar/app/.gitignore",
+				"/C/Work/Apps/Online Office/arbostar/.gitignore",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/incedent/incedent.component.html",
+				"/C/Work/Apps/Online Office/arbostar/tsconfig.json",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/replace-messages.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-view/estimate-view.component.html",
+				"/C/Work/Apps/Online Office/arbostar/.editorconfig",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-view/estimate-view.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/scheme/manage/manage.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/app/build.json",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/http.service.spec.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-list/estimate-list.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-client-view/estimate-view.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-list/estimate-list.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/app/index.html",
+				"/C/Users/crack/bin/fmfd",
+				"/C/Users/crack/bin/pa",
+				"/C/Users/crack/bin/cpa",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/dashboard.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/lead-map/lead-map.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/app/www/index.html",
+				"/C/Users/crack/AppData/Local/Temp/7zE0FC5E819/config.txt",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/noconnect/noconnect.component.html",
+				"/C/Work/Apps/Online Office/arbostar/app/plugins/pushy-cordova/src/ios/Pushy.swift",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/tracker.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/route.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/tracker/tracker.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/noconnect/noconnect.component.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/services/http.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/login/login.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/tracker/tracker.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/user/user.component.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/dashboard/dashboard.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/agenda.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/agenda.component.scss",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/lead-status.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/pipes.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/safe-url.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/search.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/shift.pipe.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pipes/swipe.directive.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/socket.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/map.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/services/load-api-key.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate-list/estimate-list.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/estimate.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout/user/user.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/layout/day/day.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/notifications/notifications.component.scss",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/job/job.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/agenda/user/user.component.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/modules/Calendar/calendar/calendar.module.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/routing.ts",
+				"/C/Work/Apps/Online Office/fsm/src/app/services/ui.service.ts",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/lead-map/lead-map.component.html",
+				"/C/Users/crack/Desktop/config.txt",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/scheme/manage/manage.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/estimate/scheme/scheme.component.html",
+				"/C/Work/Apps/Online Office/arbostar/src/app/pages/messanger/messanger.module.ts",
+				"/C/Work/Apps/Online Office/arbostar/app/plugins/fetch.json",
+				"/C/Users/crack/Downloads/calculations.js"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 128.0,
+				"where_history":
+				[
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages\\job",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages\\estimate",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\services",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\services",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages\\dashboard",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages\\agenda",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages\\dashboard",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\services",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\pages",
+					"C:\\Work\\Apps\\Online Office\\arbostar",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app\\services",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src",
+					"C:\\Work\\Apps\\Online Office\\fsm",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Workorder\\Profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\arbostar\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Leads\\Map\\map",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Leads\\Profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Create\\create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Profile\\profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\layouts",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Leads\\Create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Clients",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\Services\\services",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\View\\view",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Profile\\profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\Fields\\fields",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Create\\create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\Fields",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Create\\create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\Table",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\Services\\services",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\custom-fields",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Profile\\profile",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules\\Estimate\\Create\\create",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\modules",
+					"C:\\Work\\Apps\\Online Office\\fsm\\src\\app\\common\\custom-fields"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"type=\"file\"",
+					"div",
+					"createEstimate",
+					"mask=\"separator\"",
+					"add service",
+					"service",
+					"Select service",
+					"imgcache",
+					".postImage",
+					"estimates/upload",
+					"startActivityForResult",
+					"Enable Pushes on your device",
+					"Enable Pushes on your device ",
+					"set_chat",
+					"readChat",
+					"socket.on",
+					"readChat",
+					"http.get",
+					"});",
+					"notifications/read",
+					"window",
+					"Dark mode",
+					"();\"",
+					"js.",
+					"js.stop_form",
+					">>>>>>>",
+					"HEAD",
+					"event.",
+					"estimate_item_note_crew",
+					"<div class=\"jobrow_text_head\">Services</div>",
+					"console.log(this.lifetime < Date.now());",
+					"<div class=\"job-head\">",
+					"job-head",
+					"switch _nostick",
+					"content_in_in",
+					"map-container",
+					"this.job.events",
+					"event.event.",
+					"stop_form",
+					"\tstop",
+					" modal_open = null;",
+					"complete=true",
+					"complete",
+					"job-btns_item _red",
+					".js.set_day",
+					"this.js.events",
+					".js.events.",
+					".js.job.",
+					".event.event.",
+					"showPreview",
+					"imageFiles",
+					".event.event.",
+					"event.event",
+					"removeJobImg",
+					"alert",
+					"add_file",
+					"\tadd",
+					"canvasHeight",
+					"size",
+					"this.mod",
+					"mod",
+					"modal_start",
+					"icon-play",
+					"ride(",
+					"rid(",
+					"estimate_services",
+					".map",
+					"this.event['service_time']",
+					"event_services",
+					"fetch",
+					"service_time",
+					"event.",
+					"event_services",
+					"event.event_services",
+					"statuses",
+					" *ngIf=\"event.event\"",
+					"ride",
+					"set_day",
+					"this.job.events",
+					"SignaturePad",
+					"set_day",
+					"\tset_day",
+					"moment",
+					"src/app/pages/job/job.component",
+					"@ViewChild(SignaturePad",
+					"signaturePad",
+					"About",
+					"js.statuses",
+					" *ngIf=\"event\"",
+					"event.estimator_data",
+					"jobTab",
+					"openMap",
+					"bool",
+					"start_tab",
+					"event.event.",
+					"js.start",
+					"js.start_form",
+					"js.start_form_selected",
+					"start_form",
+					"get_desc",
+					"event.event.",
+					"event.event",
+					"event.event.event",
+					"event.event",
+					"ViewChild",
+					"\tblur",
+					"undoSign",
+					"\tnow(",
+					"now(",
+					"clearSign",
+					"ViewChildren",
+					"sigContainer1",
+					"start_tab=true",
+					"start_tab=false",
+					"jobTab21",
+					"js.form",
+					"event?.",
+					"event&&",
+					"event.",
+					".client_contact.",
+					".client_data.",
+					"data",
+					"jobTab21",
+					"start=false",
+					"nj_id",
+					"alert.",
+					"alert",
+					"complete=false"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"'q/'",
+					"/i/",
+					"/w/",
+					"/q/",
+					"/l/",
+					"create a new",
+					"{{client.name}}",
+					"is.invoice",
+					"es.calculate(this.ws.workorder.estimate);",
+					"|tdate|date:",
+					"us.toggle_fav_client(",
+					"es.update",
+					"es.update();",
+					"equipment.full_day_price",
+					"equipment.price",
+					"selected_attachments",
+					"specialist.price",
+					"cs.cnstrctr",
+					"inputs: ['section'],",
+					"selector: 'service-",
+					" [(ngModel)]=\"info.width\" (ngModelChange)=\"cs.update();\"",
+					"[(ngModel)]=\"info.width\" (change)=\"cs.update();\"",
+					"inputs: ['section'],\nselector: 'app-",
+					"createGroup",
+					"setOptions",
+					"screen",
+					"public previewScreen;\npublic info;",
+					"inputs: ['previewScreen', 'info'],",
+					"constructor(public cs: ConstructorService)",
+					"selector: 'sector_",
+					"selector: '",
+					"us.mat_users",
+					"@root/office-dashboard",
+					"{{bs.board.url}}",
+					" early access",
+					"early access",
+					", \"deleted\"",
+					"https://kov.entk.ee",
+					".",
+					"_edit",
+					"$scope.send = function(){\n\t\t\t\t$scope.err=null;\n\t\t\t\tif(!$scope.name){",
+					"if(!$scope.name){\n\t\t\t\t\t$scope.err=1;\n\t\t\t\t\treturn iziToast.error({\n\t\t\t\t\t\tmessage: 'Please fill your name',\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t\tif(!$scope.email){\n\t\t\t\t    $scope.err=2;\n\t\t\t\t    return iziToast.error({\n\t\t\t\t\t\tmessage: 'Please fill your email',\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t\tif(!$scope.message){\n\t\t\t\t    $scope.err=3;\n\t\t\t\t\treturn iziToast.error({\n\t\t\t\t\t\tmessage: 'Please fill your message',\n\t\t\t\t\t});\n\t\t\t\t}",
+					"Views",
+					"$http.post('/api/user/contact', {\n\t\t\t\t\tmessage: $scope.message,\n\t\t\t\t\temail: $scope.email,\n\t\t\t\t\tname: $scope.name\n\t\t\t\t});\n\t\t\t\t$scope.message='';\n\t\t\t\t$scope.email='';\n\t\t\t\t$scope.name='';",
+					"<textarea rows=\"4\" name=\"message\" class=\"input\" placeholder=\"Write us about your current team and challenges.\" ng-model=\"message\"></textarea>",
+					"<h1 class=\"ta-c pt30\">Apply for beta access</h1>",
+					"Apply now",
+					"<!-- <a class=\"flink\" href=\"/Terms\">Sales conditons</a> -->",
+					"UseScenarios",
+					"ApplyForBeta",
+					"FeaturesViews",
+					"Apply for beta",
+					"apply now",
+					"Apply for beta access",
+					"Application views",
+					" ng-style=\"{opacity: 1}\""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Work/Apps/Online Office/arbostar/src/app/app.component.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 22297,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5749,
+										5749
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "html",
+									"buffer_scroll_name": "4855008c",
+									"spell_check": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 939.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/C/Work/Apps/Online Office/arbostar/src/app/app.component.ts",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12171,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11763,
+										11763
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "typescript",
+									"buffer_scroll_name": "72c643cc",
+									"spell_check": false,
+									"syntax": "Packages/TypeScript Syntax/TypeScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2288.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/C/Work/Apps/Online Office/arbostar/src/app/services/lead.service.ts",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10672,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6704,
+										6704
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "typescript",
+									"buffer_scroll_name": "95af2f83",
+									"spell_check": false,
+									"syntax": "Packages/TypeScript Syntax/TypeScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1492.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Work/Apps/Online Office/arbostar/src/app/services/http.service.ts",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10858,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8008,
+										8008
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "typescript",
+									"buffer_scroll_name": "e8370ac3",
+									"spell_check": false,
+									"syntax": "Packages/TypeScript Syntax/TypeScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Work/Apps/Online Office/arbostar/app/config.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8009,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5380,
+										5380
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "xml",
+									"buffer_scroll_name": "2b6c9c7e",
+									"spell_check": false,
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 975.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Work/Apps/Online Office/arbostar/app/www/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1070,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										572,
+										572
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "html",
+									"buffer_scroll_name": "700e4166",
+									"spell_check": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						2,
+						0,
+						3,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.410410607357,
+					0.714747647562,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,1048,445,5,1539",
+			"project": "Canada.sublime-project",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"store",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"notifica",
+						"app\\services\\notification.service.ts"
+					],
+					[
+						"http",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"user",
+						"app\\services\\user.service.ts"
+					],
+					[
+						"httpservi",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"render",
+						"app\\services\\render.service.ts"
+					],
+					[
+						"src/app/pages/dashboard/user/user.component.html",
+						"arbostar\\src\\app\\pages\\dashboard\\user\\user.component.html"
+					],
+					[
+						"jobser",
+						"app\\services\\job.service.ts"
+					],
+					[
+						"eventStatus",
+						"app\\pipes\\event-status.pipe.ts"
+					],
+					[
+						"RenderService",
+						"app\\services\\render.service.ts"
+					],
+					[
+						"src/app/app.component.ts",
+						"arbostar\\src\\app\\app.component.ts"
+					],
+					[
+						"usercom",
+						"app\\layout\\user\\user.component.html"
+					],
+					[
+						"login.ts",
+						"app\\pages\\login\\login.component.ts"
+					],
+					[
+						"http.serv",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"sync",
+						"arbostar\\node_modules\\glob\\sync.js"
+					],
+					[
+						"jobts",
+						"app\\pages\\job\\job.component.ts"
+					],
+					[
+						"job.html",
+						"app\\pages\\job\\job.component.html"
+					],
+					[
+						"http.service",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"notificatio",
+						"app\\services\\notification.service.ts"
+					],
+					[
+						"notific.ts",
+						"app\\services\\notification.service.ts"
+					],
+					[
+						"notific.ht",
+						"app\\pages\\notifications\\notifications.component.html"
+					],
+					[
+						"estimate.com",
+						"app\\pages\\estimate\\estimate.component.ts"
+					],
+					[
+						"httpserv",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"notification",
+						"app\\services\\notification.service.ts"
+					],
+					[
+						"chat",
+						"app\\services\\chat.service.ts"
+					],
+					[
+						"src/app/pages/incedent/incedent.component",
+						"arbostar\\src\\app\\pages\\incedent\\incedent.component.ts"
+					],
+					[
+						"chats",
+						"app\\services\\chat.service.ts"
+					],
+					[
+						"lead",
+						"app\\services\\lead.service.ts"
+					],
+					[
+						"job.ser",
+						"app\\services\\job.service.ts"
+					],
+					[
+						"httpseri",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"job\\job.component.",
+						"app\\pages\\job\\job.component.ts"
+					],
+					[
+						"incedent\\incedent.component",
+						"app\\pages\\incedent\\incedent.component.ts"
+					],
+					[
+						"estimate\\estimate.component.ts",
+						"app\\pages\\estimate\\estimate.component.ts"
+					],
+					[
+						"src/app/pages/estimate/estimate.component.html",
+						"arbostar\\src\\app\\pages\\estimate\\estimate.component.html"
+					],
+					[
+						"app/pages/incedent/incedent.component.html",
+						"app\\pages\\incedent\\incedent.component.html"
+					],
+					[
+						"src/app/pages/incedent/incedent.component.html",
+						"arbostar\\src\\app\\pages\\incedent\\incedent.component.html"
+					],
+					[
+						"src/app/pages/estimate-view/estimate-view.component.html",
+						"arbostar\\src\\app\\pages\\estimate-view\\estimate-view.component.html"
+					],
+					[
+						"estimate",
+						"app\\pages\\estimate\\estimate.component.ts"
+					],
+					[
+						"estimate-view",
+						"app\\pages\\estimate-client-view\\estimate-view.component.ts"
+					],
+					[
+						"src/app/pages/estimate-view/estimate-view.component.ts",
+						"arbostar\\src\\app\\pages\\estimate-view\\estimate-view.component.ts"
+					],
+					[
+						"src/app/pages/estimate-view/estimate-view.component",
+						"arbostar\\src\\app\\pages\\estimate-view\\estimate-view.component.ts"
+					],
+					[
+						"estimate-view.ts",
+						"app\\pages\\estimate-client-view\\estimate-view.component.ts"
+					],
+					[
+						"userseri",
+						"app\\services\\user.service.ts"
+					],
+					[
+						"storeservi",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"httpser",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"httpse",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"storeservice",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"http.seri",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"store.ser",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"trackerservi",
+						"app\\services\\tracker.service.ts"
+					],
+					[
+						"routeser",
+						"app\\services\\route.service.ts"
+					],
+					[
+						"job",
+						"app\\pages\\job\\job.component.ts"
+					],
+					[
+						"store.service",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"storese",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"LeadService",
+						"app\\services\\lead.service.ts"
+					],
+					[
+						"chatservi",
+						"app\\services\\chat.service.ts"
+					],
+					[
+						"EstimateViewComponent",
+						"app\\pages\\estimate-view\\estimate-view.component.ts"
+					],
+					[
+						"src/app/pages/estimate-list/estimate-list.component.",
+						"arbostar\\src\\app\\pages\\estimate-list\\estimate-list.component.ts"
+					],
+					[
+						"ui.seri",
+						"app\\services\\ui.service.ts"
+					],
+					[
+						"uiservice",
+						"services\\ui.service.ts"
+					],
+					[
+						"jobservice",
+						"app\\services\\job.service.ts"
+					],
+					[
+						"src/app/pages/lead-map/lead-map.component",
+						"arbostar\\src\\app\\pages\\lead-map\\lead-map.component.html"
+					],
+					[
+						"BackgroundModeExt.java",
+						"arbostar\\app\\plugins\\cordova-plugin-background-mode\\src\\android\\BackgroundExt.java"
+					],
+					[
+						"user.",
+						"app\\services\\user.service.ts"
+					],
+					[
+						"jobcom",
+						"app\\pages\\job\\job.component.ts"
+					],
+					[
+						"job.ts",
+						"app\\pages\\job\\job.component.ts"
+					],
+					[
+						"store.",
+						"app\\services\\store.service.ts"
+					],
+					[
+						"route",
+						"app\\services\\route.service.ts"
+					],
+					[
+						"job.com.ts",
+						"app\\pages\\job\\job.component.ts"
+					],
+					[
+						"httpservice",
+						"app\\services\\http.service.ts"
+					],
+					[
+						"userservice",
+						"app\\services\\user.service.ts"
+					],
+					[
+						"TrackerService",
+						"services\\tracker.service.ts"
+					],
+					[
+						"FileService",
+						"services\\client\\file.service.ts"
+					],
+					[
+						"clientser",
+						"services\\client\\client.service.ts"
+					],
+					[
+						"estimateservi",
+						"services\\estimate\\estimate.service.ts"
+					],
+					[
+						"socketservice",
+						"app\\services\\socket.service.ts"
+					],
+					[
+						"socket",
+						"services\\socket.service.ts"
+					],
+					[
+						"routser",
+						"app\\services\\route.service.ts"
+					],
+					[
+						"chatserv",
+						"app\\services\\chat.service.ts"
+					],
+					[
+						"chatservice",
+						"app\\services\\chat.service.ts"
+					],
+					[
+						"guard",
+						"app\\services\\guard.ts"
+					],
+					[
+						"notification.servi",
+						"app\\services\\notification.service.ts"
+					],
+					[
+						"AuthService",
+						"services\\auth.service.ts"
+					],
+					[
+						"userser",
+						"services\\user.service.ts"
+					],
+					[
+						"authseri",
+						"services\\auth.service.ts"
+					],
+					[
+						"base",
+						"services\\base.service.ts"
+					],
+					[
+						"rou",
+						"services\\routing.service.ts"
+					],
+					[
+						"estiamte.serv",
+						"services\\estimate\\estimate.service.ts"
+					],
+					[
+						"workorder",
+						"services\\workorder\\workorder.service.ts"
+					],
+					[
+						"statusser",
+						"services\\estimate\\status.service.ts"
+					],
+					[
+						"alertcom",
+						"common\\Alert\\alert\\alert.component.html"
+					],
+					[
+						"alert.co",
+						"common\\Alert\\alert\\alert.component.ts"
+					],
+					[
+						"ale",
+						"services\\alert.service.ts"
+					],
+					[
+						"alert.com",
+						"common\\Alert\\alert\\alert.component.ts"
+					],
+					[
+						"common/Alert/alert/alert.component",
+						"common\\Alert\\alert\\alert.component.html"
+					],
+					[
+						"alert",
+						"services\\alert.service.ts"
+					],
+					[
+						"routing",
+						"services\\routing.service.ts"
+					],
+					[
+						"contructor",
+						"services\\constructor.service.ts"
+					],
+					[
+						"statusserv",
+						"services\\estimate\\status.service.ts"
+					],
+					[
+						"invoice",
+						"services\\invoice\\invoice.service.ts"
+					],
+					[
+						"src/app/common/Services/services/services.component.ts",
+						"fsm\\src\\app\\common\\Services\\services\\services.component.ts"
+					],
+					[
+						"service",
+						"services\\estimate\\services.service.ts"
+					],
+					[
+						"statusservice",
+						"services\\estimate\\status.service.ts"
+					],
+					[
+						"file",
+						"services\\client\\file.service.ts"
+					],
+					[
+						"field",
+						"services\\fields.service.ts"
+					],
+					[
+						"routings",
+						"services\\routing.service.ts"
+					],
+					[
+						"estim",
+						"services\\estimate\\estimate.service.ts"
+					],
+					[
+						"statusservi",
+						"services\\estimate\\status.service.ts"
+					],
+					[
+						"status.ts",
+						"common\\Status\\status\\status.component.ts"
+					],
+					[
+						"statu",
+						"services\\estimate\\status.service.ts"
+					],
+					[
+						"leadprofilelead",
+						"modules\\Leads\\Profile\\profile\\lead.component.html"
+					],
+					[
+						"fieldserv",
+						"services\\fields.service.ts"
+					],
+					[
+						"client-info",
+						"common\\client-info\\client-info.component.ts"
+					],
+					[
+						"clientinfo",
+						"common\\client-info\\client-info.component.html"
+					],
+					[
+						"histor",
+						"services\\history.service.ts"
+					],
+					[
+						"constructor",
+						"services\\constructor.service.ts"
+					],
+					[
+						"src/app/modules/Equipment/Profile/profile/profile.component",
+						"fsm\\src\\app\\modules\\Equipment\\Profile\\profile\\profile.component.html"
+					],
+					[
+						"src/app/common/Map/map/map.component",
+						"fsm\\src\\app\\common\\Map\\map\\map.component.html"
+					],
+					[
+						"menu",
+						"services\\menu.service.ts"
+					],
+					[
+						"AddPaymentComponent",
+						"common\\add-payment\\add-payment.component.ts"
+					],
+					[
+						"hist",
+						"services\\history.service.ts"
+					],
+					[
+						"histo",
+						"services\\history.service.ts"
+					],
+					[
+						"pdf",
+						"services\\estimate\\pdf.service.ts"
+					],
+					[
+						"editompon",
+						"modules\\Clients\\Profile\\profile\\edit.component.ts"
+					],
+					[
+						"client",
+						"services\\client\\client.service.ts"
+					],
+					[
+						"taskservice",
+						"services\\tasks.service.ts"
+					],
+					[
+						"task",
+						"services\\task.service.ts"
+					],
+					[
+						"draft",
+						"services\\estimate\\draft.service.ts"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\crack\\waw.sublime-project"
+					],
+					[
+						"wa",
+						"C:\\Users\\crack\\waw.sublime-project"
+					],
+					[
+						"t",
+						"C:\\Users\\crack\\Traffic.sublime-project"
+					],
+					[
+						"waw",
+						"C:\\Users\\crack\\waw.sublime-project"
+					],
+					[
+						"w",
+						"C:\\Users\\crack\\waw.sublime-project"
+					],
+					[
+						"be",
+						"C:\\Users\\crack\\Bejaboo.sublime-project"
+					],
+					[
+						"z",
+						"C:\\Users\\crack\\Zaproo.sublime-project"
+					],
+					[
+						"o",
+						"C:\\Users\\crack\\ewoc.sublime-project"
+					],
+					[
+						"za",
+						"C:\\Users\\crack\\Zaproo.sublime-project"
+					],
+					[
+						"b e",
+						"C:\\Users\\crack\\Bejaboo.sublime-project"
+					],
+					[
+						"cr",
+						"C:\\Users\\crack\\CRM.sublime-project"
+					],
+					[
+						"crm",
+						"C:\\Users\\crack\\CRM.sublime-project"
+					],
+					[
+						"ma",
+						"C:\\Users\\crack\\Massage World.sublime-project"
+					],
+					[
+						"bej",
+						"C:\\Users\\crack\\Bejaboo.sublime-project"
+					],
+					[
+						"har",
+						"C:\\Users\\crack\\Harald Mayr.sublime-project"
+					],
+					[
+						"fi",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"ha",
+						"C:\\Users\\crack\\Harald Mayr.sublime-project"
+					],
+					[
+						"mar",
+						"C:\\Users\\crack\\Marcel.sublime-project"
+					],
+					[
+						"fixe",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"zapr",
+						"C:\\Users\\crack\\Zaproo.sublime-project"
+					],
+					[
+						"dir",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"dri",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"fix",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"f",
+						"C:\\Users\\crack\\Fixed Projects.sublime-project"
+					],
+					[
+						"do",
+						"C:\\Users\\crack\\Harald Mayr.sublime-project"
+					],
+					[
+						" ",
+						"C:\\Users\\crack\\Harald Mayr.sublime-project"
+					],
+					[
+						"hara",
+						"C:\\Users\\crack\\Harald Mayr.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 592.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 140,
+			"workspace_name": "/C/Users/crack/Canada.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/crack/Canada.sublime-workspace",
+			"/C/Users/crack/waw.sublime-workspace",
+			"/C/Users/crack/Traffic.sublime-workspace"
+		]
+	}
+}
