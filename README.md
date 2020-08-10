@@ -1,6 +1,6 @@
 # Sublime
-cd ~/AppData/Roaming/Sublime\ Text\ 3/
-git init
-git remote add origin https://github.com/CrackerakiUA/Sublime.git
-git fetch --all
-git reset --hard origin/master
+cd ~/AppData/Roaming/Sublime\ Text\ 3/<br>
+git init<br>
+git remote add origin https://github.com/CrackerakiUA/Sublime.git<br>
+git fetch --all<br>
+git reset --hard origin/master<br>
